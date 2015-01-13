@@ -1,0 +1,39 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+#source control files
+*.svn
+
+# Mac OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+thumbs.db
+
+# IDEs
+.idea/*
+.factorypath
+*/.idea/*
+*.iml
+nbproject
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+atlassian-ide-plugin.xml
+*.swp
+*.out
+target
+target/*
+.setting/
+.settings/
+.project/
+*/.project
+.project
+.classpath
